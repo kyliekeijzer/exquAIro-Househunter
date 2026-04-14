@@ -30,7 +30,7 @@ The dataset (`190322 - HouseTable_vDef_excel.xlsx`) contains historical house sa
 
 ## Usage
 
-1Run `script_househunter.ipynb` for the full analysis.
+1. Run `script_househunter.ipynb` for the full analysis.
 
 ## Notes
 
